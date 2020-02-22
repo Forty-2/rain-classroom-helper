@@ -89,6 +89,7 @@
     }
     .rain-iframe {
       width: calc(95% - 40px) !important;
+      height: calc(95%) !important;
     }
     .student__timeline-wrapper {
       top: 2.33rem !important;
